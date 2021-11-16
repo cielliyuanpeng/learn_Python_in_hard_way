@@ -1,0 +1,5 @@
+print("hello ")
+print("hello again")
+print("im so shuai")
+print("you are so beautiful")
+print("q\"www\"qq")
